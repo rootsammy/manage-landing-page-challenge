@@ -1,3 +1,5 @@
+import "../input.css";
+
 let menuIcon = document.querySelector(".menu-icon");
 let xIcon = document.querySelector(".x-icon");
 let mobileMenu = document.querySelector(".mobile-nav");
